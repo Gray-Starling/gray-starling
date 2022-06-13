@@ -1,3 +1,3 @@
-![Skvorcov Sergey]([./assets/banner.png](https://raw.githubusercontent.com/Gray-Starling/gray-starling/main/assets/banner.png))
+![Skvorcov Sergey](https://raw.githubusercontent.com/Gray-Starling/gray-starling/main/assets/banner.png)
 
 About me
