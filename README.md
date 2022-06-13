@@ -1,4 +1,4 @@
-![header](https://github.com/Gray-Starling/gray-starling/blob/main/assets/banner.jpg?raw=true)
+![enter image description here](https://raw.githubusercontent.com/Gray-Starling/gray-starling/main/assets/banner.png)
 
 <!--
 **Gray-Starling/gray-starling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
