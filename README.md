@@ -1,3 +1,5 @@
+<div style="background-color: #000">
+
 <center>
 
 ![Sergey Skvorcov](https://raw.githubusercontent.com/Gray-Starling/gray-starling/main/assets/banner.png)
@@ -6,7 +8,7 @@
 
 ## About me
 
-Hello, I'm a beginner web developer. I love programming. Back in school, I tried to create websites and was just delighted. Nothing has changed since then, I'm still learning new web development tools and still excited about the limitless possibilities.
+Hello, I'm a beginner web developer. I'm obsessed with programming. Back in school, I tried to create websites and was just delighted. Nothing has changed since then, I'm still learning new web development tools and still excited about the limitless possibilities.
 
 ## Languages and Tools
 
@@ -38,3 +40,5 @@ Hello, I'm a beginner web developer. I love programming. Back in school, I tried
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gray-starling&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </center>
+
+</div>
