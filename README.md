@@ -1,8 +1,8 @@
 ![Sergey Skvorcov](https://raw.githubusercontent.com/Gray-Starling/gray-starling/main/assets/banner.png)
 
-## About me
+🎓 Hello, I'm a beginner web developer.
 
-Hello, I'm a beginner web developer. I'm obsessed with programming. Back in school, I tried to create websites and was just delighted. Nothing has changed since then, I'm still learning new web development tools and still excited about the limitless possibilities.
+🔥 I'm obsessed with programming.
 
 ## Languages and Tools
 
@@ -17,12 +17,11 @@ Hello, I'm a beginner web developer. I'm obsessed with programming. Back in scho
 ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git)
 ![FireBase](https://img.shields.io/badge/FireBase-000?style=for-the-badge&logo=firebase)
 
-## Follow me
-
-...
-
 ## Statistic
 
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gray-starling&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gray-starling&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
