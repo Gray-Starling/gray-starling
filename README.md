@@ -1,5 +1,3 @@
-![Sergey Skvorcov](https://raw.githubusercontent.com/Gray-Starling/gray-starling/main/assets/banner.png)
-
 🎓 Hello, I'm a beginner web developer.
 
 🔥 I'm obsessed with programming.
@@ -19,9 +17,6 @@
 
 ## Statistic
 
-<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gray-starling&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<p align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gray-starling&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
