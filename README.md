@@ -6,32 +6,32 @@
 
 <p align='center'>
   <a href="#">
-    <img src="https://img.shields.io/badge/HTML-999999?style=for-the-badge&logo=HTML5" />
+    <img src="https://img.shields.io/badge/HTML-d5d5d5?style=for-the-badge&logo=HTML5" />
   </a>&nbsp;&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/CSS-999999?style=for-the-badge&logo=CSS3" />
+    <img src="https://img.shields.io/badge/CSS-d5d5d5?style=for-the-badge&logo=CSS3" />
   </a>&nbsp;&nbsp; 
    <a href="#">
-    <img src="https://img.shields.io/badge/SASS-999999?style=for-the-badge&logo=sass" />
+    <img src="https://img.shields.io/badge/SASS-d5d5d5?style=for-the-badge&logo=sass" />
   </a>&nbsp;&nbsp;  
 </p>
 <p align='center'>
   <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-999999?style=for-the-badge&logo=JavaScript" />
+    <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=JavaScript" />
   </a>&nbsp;&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/React-999999?style=for-the-badge&logo=React" />
+    <img src="https://img.shields.io/badge/React-d5d5d5?style=for-the-badge&logo=React" />
   </a>&nbsp;&nbsp; 
    <a href="#">
-    <img src="https://img.shields.io/badge/Redux-999999?style=for-the-badge&logo=Redux" />
+    <img src="https://img.shields.io/badge/Redux-d5d5d5?style=for-the-badge&logo=Redux" />
   </a>&nbsp;&nbsp;  
 </p>
 <p align='center'>
   <a href="#">
-    <img src="https://img.shields.io/badge/GIT-999999?style=for-the-badge&logo=git" />
+    <img src="https://img.shields.io/badge/GIT-d5d5d5?style=for-the-badge&logo=git" />
   </a>&nbsp;&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/FireBase-999999?style=for-the-badge&logo=firebase" />
+    <img src="https://img.shields.io/badge/FireBase-d5d5d5?style=for-the-badge&logo=firebase" />
   </a>&nbsp;&nbsp;    
 </p>
 
