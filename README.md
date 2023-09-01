@@ -1,4 +1,4 @@
-🎓 Hello, I'm a beginner web developer.
+🎓 Hello, I'm a web developer.
 
 🔥 I'm obsessed with programming.
 
