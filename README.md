@@ -4,7 +4,7 @@
 
 
 [![Website](https://img.shields.io/badge/Website-%23082E4E.svg?style=for-the-badge&textColor=EAB41F)](https://it-gray.ru/) 
-[![VK](https://img.shields.io/badge/vk-%235865F2.svg?style=for-the-badge&logo=vk&logoColor=white)](https://discordapp.com/users/290810755257860099/)
+[![VK](https://img.shields.io/badge/vk-%235865F2.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/gray_starling)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gray_starling)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/290810755257860099/)
 
