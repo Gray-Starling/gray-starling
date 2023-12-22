@@ -2,7 +2,11 @@
 
 🔥 I'm obsessed with programming.
 
-![My WebPage](https://img.shields.io/badge/My%20Web%20Page-1b3244)
+
+[![Website](https://img.shields.io/badge/Website-%23082E4E.svg?style=for-the-badge&textColor=EAB41F)](https://it-gray.ru/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushk47/) 
+[![Blog](https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://blogs.aayushkurup.dev/) 
+[![Hashnode](https://img.shields.io/twitter/follow/AayushK_47?logo=Twitter&style=for-the-badge)](https://twitter.com/AayushK_47)
 
 ## Languages and Tools
 
