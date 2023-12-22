@@ -20,7 +20,7 @@
 </p>
 <p align='center'>
   <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-d5d5d5?style=for-the-badge&logo=JavaScript" />
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=JavaScript" />
   </a>&nbsp;&nbsp;
   <a href="#">
     <img src="https://img.shields.io/badge/React-d5d5d5?style=for-the-badge&logo=React" />
