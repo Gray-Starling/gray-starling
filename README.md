@@ -2,7 +2,7 @@
 
 🔥 I'm obsessed with programming.
 
-![My WebPage](https://img.shields.io/badge/My_Web_Page??link=https%3A%2F%2Fit-gray.ru%2F) 
+![My WebPage](https://img.shields.io/badge/My_Web_Page??link=[https%3A%2F%2Fit-gray.ru%2F](https://it-gray.ru/)) 
 
 ## Languages and Tools
 
