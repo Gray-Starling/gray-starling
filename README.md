@@ -30,9 +30,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/GIT-d5d5d5?style=for-the-badge&logo=git" />
   </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/FireBase-d5d5d5?style=for-the-badge&logo=firebase" />
-  </a>&nbsp;&nbsp;    
+    
 </p>
 
 ## Statistic
@@ -44,5 +42,5 @@
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gray-starling&theme=github_dark)
 
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gray-starling&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gray-starling&theme=github_dark&utcOffset=5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gray-starling&theme=github_dark&utcOffset=3)
 
