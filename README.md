@@ -34,8 +34,8 @@
 </p>
 
 ## Statistic
-
+<p align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gray-starling&layout=compact&theme=buefy&hide_border=true" /> 
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gray-starling)
-
+</p>
