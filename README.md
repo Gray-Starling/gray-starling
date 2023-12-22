@@ -39,3 +39,10 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gray-starling&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gray-starling&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AayushK47&theme=github_dark)
+
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AayushK47&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AayushK47&theme=github_dark&utcOffset=5)
+
