@@ -3,9 +3,9 @@
 🔥 I'm obsessed with programming.
 
 ## Languages and Tools
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <p align='center'>
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
   <a href="#">
     <img src="https://img.shields.io/badge/HTML-d5d5d5?style=for-the-badge&logo=HTML5" />
   </a>&nbsp;&nbsp;
