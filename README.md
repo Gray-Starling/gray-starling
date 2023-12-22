@@ -42,7 +42,7 @@
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AayushK47&theme=github_dark)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gray-starling&theme=github_dark)
 
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AayushK47&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AayushK47&theme=github_dark&utcOffset=5)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gray-starling&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AayushK47&theme=github_dark&utcOffset=5)
 
